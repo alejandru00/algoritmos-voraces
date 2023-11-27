@@ -38,6 +38,7 @@ Hay n niños haciendo fila. A cada niño se le asigna un valor de hambre dado en
 n enteros hunger
 
 Estás regalando caramelos a estos niños sujeto a los siguientes requisitos:
+
 ● Cada niño debe tener al menos un caramelo.
 
 ● Los niños con un valor de hambre más alto reciben más dulces que sus vecinos.
